@@ -4,12 +4,12 @@ title: Towards the Implementation of Efficient and Distributable Pairing-based C
 event: Séminaire de Cryptographie
 event_url: https://webmath.univ-rennes1.fr/crypto/2018/Khandaker
 
-location: Wowchemy HQ
+location: IRMAR at University Rennes 1
 address:
-  street: 450 Serra Mall
+  street: Rue du Thabor
   city: Rennes
-  region: Rennes
-  postcode: '94305'
+  region: Bittany
+  postcode: '35000'
   country: France
 
 summary: Invided talk on Pairing-Based Cryptography and Open-Source Library.
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: ':[**Co-Author:Mr. Sanada**](https://photos.app.goo.gl/KVgGmd7JThWeNf4Q9)'
+  caption: ':[**Co-Author:Mr. Sanada**](/images/invited_talk_rennes_2017.JPG)'
   focal_point: Right
 
 # links:
