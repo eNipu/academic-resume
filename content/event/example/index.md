@@ -1,44 +1,44 @@
 ---
-title: Example Talk
+title: Towards the Implementation of Efficient and Distributable Pairing-based Crypto Library
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Séminaire de Cryptographie
+event_url: https://webmath.univ-rennes1.fr/crypto/2018/Khandaker
 
 location: Wowchemy HQ
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  city: Rennes
+  region: Rennes
   postcode: '94305'
-  country: United States
+  country: France
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Invided talk on Pairing-Based Cryptography and Open-Source Library.
+abstract: "Pairing-based cryptography is popular among the cryptographic protocol researchers for its eccentric provable security. Protocol side researchers often see pairing as a black box. They often need to test the correctness of their proposal. Typically, mathematicians and cryptography engineers try to make the underlying operations of pairing-based crypto efficient. In addition, different types of pairing and pairing-friendly curves have varying pros and cons with respect to the design of protocol and parameter. All these led us to make a distributable and efficient library that will incorporate various pairing-friendly curves with the different security levels. In this talk, I will share the path we followed to make such library for all who are working directly or indirectly with pairing-based cryptography."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2017-12-01T13:00:00Z"
+date_end: "2017-12-01T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-11-01T00:00:00Z"
 
-authors: []
+authors: [Khandaker Md Al Amin]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ':[**Co-Author:Mr. Sanada**](https://photos.app.goo.gl/KVgGmd7JThWeNf4Q9)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,7 +59,8 @@ slides: example
 projects:
 - example
 ---
-
+<!-- 
+TODO: WILL ADD SLIDE
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
@@ -70,4 +71,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->

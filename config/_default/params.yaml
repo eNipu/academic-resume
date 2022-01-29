@@ -8,20 +8,20 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'al-amin.tech'
+description: 'Portfolio, CV, Bio'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
 email: tokhandakert [at] outlook [dot] com
-phone: +81 080 (263F 2185)_16
+phone: +81 080 HEX(263F) 8581
 address:
   street: -- -- --
   city: Tokyo
@@ -46,14 +46,14 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:alaminnipu'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
