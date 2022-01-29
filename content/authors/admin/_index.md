@@ -69,7 +69,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Md. Al-Amin Khandaker is a Research Engineer at the Research and Development department of EAGLYS Inc, Tokyo where he is currently working on application of fully homomorphic encryption on privacy-preserving machine learning and secure computing for real-world problem.
+Md. Al-Amin Khandaker is a Research Engineer at the R&D department of EAGLYS Inc.
+He is currently working on the application of fully homomorphic encryption on privacy-preserving machine learning and secure computing for real-world problems.
 
 In 2015 he was awarded Japan Govt. Scholarship (MEXT) to pursue Doctor’s course in the field of cryptography under the supervision of Professor Yasuyuki NOGAMI.
 His Ph.D. research was focused on optimization and efficient implementation techniques for the elliptic curve pairing-based cryptography, and its application for IoT security. He was a graduate student member of IEEE.
