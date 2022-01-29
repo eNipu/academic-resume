@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: ':[**Co-Author:Mr. Sanada**](/images/invited_talk_rennes_2017.JPG)'
+  caption: ':[**Co-Author:Mr. Sanada**](/content/event/example/featured.jpg)'
   focal_point: Right
 
 # links:
