@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/FNC22QYUV5EJ
+  date_end: "2020-05-27"
+  date_start: ""
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Number Theory and Cryptography
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/6YHSHPFBYCW2
+  date_end: "2019-09-23"
+  date_start: ""
+  description: Machine Learning in Google Cloud
+  organization: Coursera
+  organization_url:  https://www.coursera.org
+  title: 'How Google does Machine Learning'
+  url: 
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/RDNRAN7FPZE3
+  date_end: "2020-07-24"
+  date_start: ""
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Introduction to Tensorflow'
   url: ""
 
 design:
