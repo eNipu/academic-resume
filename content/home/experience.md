@@ -77,7 +77,7 @@ experience:
         Responsibilities include:
 
         * Developed an iOS app of a intranet service used by more that 300k users.
-        * Implemented PoC of an online E-learning platform [Coursepath] (https://www.coursepath.com/) 
+        * Implemented PoC of an online E-learning platform [Coursepath](https://www.coursepath.com/) 
         * Technology used: Objective-C, iOS, REST, SQLite, PostgreSQL.
 
 design:
