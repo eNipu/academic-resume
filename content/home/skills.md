@@ -40,7 +40,7 @@ feature:
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
 - icon: "assets/media/icons/c"
- icon_pack: "custom"
- name: "C++"
- description: "90%"
+  icon_pack: "custom"
+  name: "C++"
+  description: "90%"
 ---
