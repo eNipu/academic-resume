@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Language I use most
-subtitle:
+title: Programming Language
+subtitle: Language mentioned here are used in daily work. 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -24,10 +24,10 @@ feature:
   icon: rust
   icon_pack: fab
   name: Rust
-- description: 60%
-  icon: 
-  icon_pack: fas
-  name: C++
+# - description: 60%
+#   icon: assets/media/icons/c
+#   icon_pack: "custom"
+#   name: C++
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -39,8 +39,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: "assets/media/icons/c"
+ icon_pack: "custom"
+ name: "C++"
+ description: "90%"
 ---
