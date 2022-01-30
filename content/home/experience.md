@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Engineer
+    company: EAGLYS Inc.
+    company_url: 'https://www.eaglys.co.jp/'
+    company_logo: eaglys.jpeg
+    location: Tokyo
+    date_start: '2020-11-10'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+  
+        * Requirement analysis, desing and development of the the secre somputing project[GateDB](https://www.linkedin.com/products/eaglys-inc.-dataarmor-gate-db/)
+        * Converting business requirements and theoretic algorithms into PoC.
+        * Performance and security improvement of the existing products.
         
   - title: Professor of Semiconductor Physics
     company: University X

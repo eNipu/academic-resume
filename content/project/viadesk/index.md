@@ -1,6 +1,6 @@
 ---
-title: ELiPS
-summary: Library for Efficient Pairing-Based Cryptography
+title: Viadesk
+summary: 
 tags:
 - Personal
 date: "2016-04-27T00:00:00Z"
