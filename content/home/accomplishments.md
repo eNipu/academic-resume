@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FNC22QYUV5EJ
   date_end: "2020-05-27"
-  date_start: ""
+  date_start: "2020-03-27"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/6YHSHPFBYCW2
   date_end: "2019-09-23"
-  date_start: ""
+  date_start: "2019-07-23"
   description: Machine Learning in Google Cloud
   organization: Coursera
   organization_url:  https://www.coursera.org
@@ -41,7 +41,7 @@ item:
   url: 
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/RDNRAN7FPZE3
   date_end: "2020-07-24"
-  date_start: ""
+  date_start: "2020-05-23"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
