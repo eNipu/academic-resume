@@ -25,7 +25,7 @@ experience:
   - title: Research Engineer
     company: EAGLYS Inc.
     company_url: 'https://www.eaglys.co.jp/'
-    company_logo: eaglys.jpeg
+    company_logo: eaglys
     location: Tokyo
     date_start: '2020-11-10'
     date_end: ''
