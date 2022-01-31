@@ -8,7 +8,7 @@
 theme: Mr Robot
 day_night: true
 # Optional Google font URL
-google_fonts = "B612+Mono:400,700|Orbitron:400,700"
+# google_fonts = "B612+Mono:400,700|Orbitron:400,700"
 
 # Font families
 # heading_font = "Orbitron"
