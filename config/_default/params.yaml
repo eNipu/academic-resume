@@ -7,7 +7,14 @@
 
 theme: Mr Robot
 day_night: true
-font: ''
+# Optional Google font URL
+google_fonts = "B612+Mono:400,700|Orbitron:400,700"
+
+# Font families
+heading_font = "Orbitron"
+body_font = "B612 Mono"
+nav_font = "B612 Mono"
+mono_font = "B612 Mono"
 font_size: M
 
 # SEO
