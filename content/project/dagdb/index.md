@@ -3,12 +3,6 @@ title: DataArmorGate DB (Gate DB)
 summary: A database proxy application that enables users to perform SQL queries
 on encrypted data without storing the key to the database server. 
 
-- Notable features of Gate DB: 
-- data is always-on encryption(during communication, at rest, during processing). 
-- The contents of the database are always encrypted and all queries are performed over encrypted data. 
-- The encryption keys are not stored in the database.
-- It supports bring-your-own-key(BIOK)
-- data is never decrypted at the database side which is different from traditional database systems.
 
 tags:
 - Work
@@ -39,6 +33,14 @@ url_video: ""
 slides: example
 ---
 DataArmor Gate DB is a turn key solution for always-on encryption of databases that contain highly sensitive data or operate in non-trusted zones such as the cloud. The contents of the database are always encrypted and all queries are performed over encrypted data only. The encryption keys are stored separately from the database, and data is never decrypted at the database side. This is in contrast to current database solutions which partially decrypt the data when performing queries.
+
+### Notable features of Gate DB:
+
+- data is always-on encryption(during communication, at rest, during processing).
+- The contents of the database are always encrypted and all queries are performed over encrypted data.
+- The encryption keys are not stored in the database.
+- It supports bring-your-own-key(BIOK)
+- data is never decrypted at the database side which is different from traditional database systems.
   
 
 - Key contributions:
