@@ -2,8 +2,8 @@
 title: DataArmorGate DB (Gate DB)
 summary: A database proxy application that enables users to perform SQL queries on encrypted data without storing the key to the database server. 
 tags:
-- Personal
-date: "2016-04-27T00:00:00Z"
+- Work
+date: "2019-11-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://www.linkedin.com/products/eaglys-inc.-dataarmor-gate-db/"
@@ -38,7 +38,7 @@ DataArmor Gate DB is a turn key solution for always-on encryption of databases t
 - It supports bring-your-own-key(BIOK)
 - data is never decrypted at the database side which is different from traditional database systems.
   
-- Key contributions:
+### Key contributions:
   - Implemented Homomorphic-encryption(HE) to perform ‘SQL aggregate functions’.
   - Reduced the bulk insertion and encryption time by 5 times by eﬀicient implementation of HE algorithms and multi-processing in Rust.
   - Implemented Lifted-ElGamal over prime field as Somewhat-Homomorphic-Encryption (using BLS-12 elliptic curve pairing) for Homomorphic addition of cipher-text.
