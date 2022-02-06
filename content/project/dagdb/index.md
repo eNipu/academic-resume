@@ -2,7 +2,6 @@
 title: DataArmorGate DB (Gate DB)
 summary: A database proxy application that enables users to perform SQL queries
 on encrypted data without storing the key to the database server. 
-
 tags:
 - Work
 date: "2016-04-27T00:00:00Z"
