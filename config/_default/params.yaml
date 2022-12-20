@@ -15,7 +15,7 @@ day_night: true
 # body_font = "B612 Mono"
 # nav_font = "B612 Mono"
 # mono_font = "B612 Mono"
-font_size: M
+font_size: 16
 
 # SEO
 
@@ -29,45 +29,45 @@ twitter: ''
 
 email: tokhandakert [at] outlook [dot] com
 phone: +81 080 HEX(263F) 8581
-# address:
-#   street: -- -- --
-#   city: Shibuya
-#   region: Tokyo
-#   postcode: ''
-#   country: Japan
-#   country_code: JP
-# coordinates:
-#   latitude: '35.687078497290734'
-#   longitude: '139.702876372348'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-# office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
+address:
+  street: -- -- --
+  city: Shibuya
+  region: Tokyo
+  postcode: ''
+  country: Japan
+  country_code: JP
+coordinates:
+  latitude: '35.687078497290734'
+  longitude: '139.702876372348'
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+office_hours:
+  - 'Monday 10:00 to 13:00'
+  - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com/alaminnipu'
 contact_links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: DM Me
-  #   link: 'https://twitter.com/Twitter'
-  # - icon: skype
-  #   icon_pack: fab
-  #   name: Skype Me
-  #   link: 'skype:alaminnipu'
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/Twitter'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'skype:alaminnipu'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
     link: 'https://keybase.io/alamintech'
-  # - icon: comments
-  #   icon_pack: fas
-  #   name: Discuss on Forum
-  #   link: 'https://discourse.gohugo.io'
+  - icon: comments
+    icon_pack: fas
+    name: Discuss on Forum
+    link: 'https://discourse.gohugo.io'
 
 # Site header
 
 main_menu:
   enable: true
   align: r
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
