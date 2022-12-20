@@ -27,40 +27,40 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: tokhandakert [at] outlook [dot] com
-phone: +81 080 HEX(263F) 8581
-address:
-  street: -- -- --
-  city: Shibuya
-  region: Tokyo
-  postcode: ''
-  country: Japan
-  country_code: JP
-coordinates:
-  latitude: '35.687078497290734'
-  longitude: '139.702876372348'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com/alaminnipu'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:alaminnipu'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/alamintech'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+# email: tokhandakert [at] outlook [dot] com
+# phone: +81 080 HEX(263F) 8581
+# address:
+#   street: -- -- --
+#   city: Shibuya
+#   region: Tokyo
+#   postcode: ''
+#   country: Japan
+#   country_code: JP
+# coordinates:
+#   latitude: '35.687078497290734'
+#   longitude: '139.702876372348'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com/alaminnipu'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: DM Me
+#     link: 'https://twitter.com/Twitter'
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: 'skype:alaminnipu'
+#   - icon: keybase
+#     icon_pack: fab
+#     name: Chat on Keybase
+#     link: 'https://keybase.io/alamintech'
+#   - icon: comments
+#     icon_pack: fas
+#     name: Discuss on Forum
+#     link: 'https://discourse.gohugo.io'
 
 # Site header
 
