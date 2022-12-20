@@ -15,7 +15,7 @@ day_night: true
 # nav_font: Roboto Mono
 # mono_font: Roboto Mono
 font: myfont
-font_size: s
+font_size: xs
 
 # SEO
 
