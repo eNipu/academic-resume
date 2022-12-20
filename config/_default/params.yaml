@@ -8,14 +8,13 @@
 theme: Academic
 day_night: true
 # Optional Google font URL
-google_fonts: Roboto Mono
 
 # Font families
 # heading_font: Roboto Mono
 # body_font: Roboto Mono
 # nav_font: Roboto Mono
 # mono_font: Roboto Mono
-font_size: xs
+font_size: s
 
 # SEO
 
