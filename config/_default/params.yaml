@@ -11,17 +11,17 @@ day_night: true
 # google_fonts = "B612+Mono:400,700|Orbitron:400,700"
 
 # Font families
-# heading_font = "Orbitron"
-# body_font = "B612 Mono"
-# nav_font = "B612 Mono"
-# mono_font = "B612 Mono"
-font_size: 16
+heading_font: "Orbitron"
+body_font: "B612 Mono"
+nav_font: "B612 Mono"
+mono_font: "B612 Mono"
+font_size: 12
 
 # SEO
 
 site_type: Person
 local_business_type: ''
-org_name: 'al-amin.tech'
+org_name: 'al-amin.codes'
 description: 'Portfolio, CV, Bio'
 twitter: ''
 
