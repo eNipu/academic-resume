@@ -11,11 +11,11 @@ day_night: true
 google_fonts: Roboto Mono
 
 # Font families
-heading_font: Roboto Mono
-body_font: Roboto Mono
-nav_font: Roboto Mono
-mono_font: Roboto Mono
-font_size: 12
+# heading_font: Roboto Mono
+# body_font: Roboto Mono
+# nav_font: Roboto Mono
+# mono_font: Roboto Mono
+font_size: xs
 
 # SEO
 
