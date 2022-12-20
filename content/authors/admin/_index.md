@@ -46,7 +46,7 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Md-Al-Amin-Khandaker
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: GraduationCap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fav
   link: https://scholar.google.com/citations?user=nAO6FycAAAAJ
 - icon: github

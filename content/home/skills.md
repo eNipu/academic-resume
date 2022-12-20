@@ -25,8 +25,8 @@ feature:
   icon_pack: fab
   name: Rust
 - description: 60%
-  icon: assets/media/icons/brands/c.svg
-  icon_pack: "custom"
+  icon: cuttlefish
+  icon_pack: fab
   name: C++
 
 # Uncomment to use emoji icons.
